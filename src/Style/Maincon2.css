@@ -37,7 +37,7 @@
 .maincon2_container_subcon2_subcon1{
     width:99%;
     height:20rem;
-    margin-left: 1rem;
+    /* margin-left: 1rem; */
     border:1px solid gray;
     border-radius: 1rem;
 }
@@ -50,7 +50,7 @@
 .maincon2_container_subcon2_subcon2{
     width:100%;
     height: 15rem;
-    margin-left: 1rem;
+    /* margin-left: 1rem; */
     border-radius: 1rem;
     display:flex;
 }
@@ -63,7 +63,7 @@
 .maincon2_container_subcon2_subcon2_sub2{
     width:50%;
     height: 15rem;
-    margin-left: 1.5rem;
+    margin-left: 1rem;
     border-radius: 1rem;
     margin-top: 1rem;
 

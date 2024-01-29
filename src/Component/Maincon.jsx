@@ -3,7 +3,6 @@ import Carousel from "react-bootstrap/Carousel";
 
 import "../Style/Maincon.css";
 import Maincon2 from "./Maincon2";
-// import ExampleCarouselImage from 'components/ExampleCarouselImage';
 
 function Maincon() {
   return (

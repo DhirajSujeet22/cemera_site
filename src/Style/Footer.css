@@ -8,24 +8,28 @@
     flex-wrap: wrap;
 }
 .footer_container_subcon1{
-    width:19.5rem;
+    width:19rem;
     padding:1rem;
+    border: 1px solid white;
     padding-top:2rem; 
 }
 .footer_container_subcon2{
-    width:19.5rem;
+    width:19rem;
     padding:1rem;
     padding-top:2rem;
+    border: 1px solid white;
 }
 .footer_container_subcon3{
-    width:19.5rem;
+    width:19rem;
     padding:1rem;
     padding-top:2rem;
+    border: 1px solid white;
 }
 .footer_container_subcon4{
-    width:19.5rem;
+    width:19rem;
     padding:1rem;
     padding-top:2rem;
+    border: 1px solid white;
 }
 .footer_container_subcon2 p{
     font-size: 1.1rem;
