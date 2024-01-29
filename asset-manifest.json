@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cemera_site/static/css/main.ef779b53.css",
+    "main.css": "/cemera_site/static/css/main.b9851dbc.css",
     "main.js": "/cemera_site/static/js/main.aae4f888.js",
     "static/js/787.c665c71f.chunk.js": "/cemera_site/static/js/787.c665c71f.chunk.js",
     "static/media/img1.png": "/cemera_site/static/media/img1.b67ac4dd1e92ef3d6fe6.png",
@@ -14,12 +14,12 @@
     "static/media/cemera_logo3.png": "/cemera_site/static/media/cemera_logo3.fa2480ef01d82088060d.png",
     "static/media/logo.svg": "/cemera_site/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/cemera_site/index.html",
-    "main.ef779b53.css.map": "/cemera_site/static/css/main.ef779b53.css.map",
+    "main.b9851dbc.css.map": "/cemera_site/static/css/main.b9851dbc.css.map",
     "main.aae4f888.js.map": "/cemera_site/static/js/main.aae4f888.js.map",
     "787.c665c71f.chunk.js.map": "/cemera_site/static/js/787.c665c71f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef779b53.css",
+    "static/css/main.b9851dbc.css",
     "static/js/main.aae4f888.js"
   ]
 }
